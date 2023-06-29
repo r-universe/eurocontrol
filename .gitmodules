@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/eurocontrol/eurocontrol.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "eurocontrol"]
 	path = eurocontrol
 	url = https://github.com/eurocontrol/eurocontrol
-	shallow = true
-	registered = true
 [submodule "pruatlas"]
 	path = pruatlas
 	url = https://github.com/euctrl-pru/pruatlas
-	shallow = true
-	registered = true
